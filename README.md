@@ -8,12 +8,12 @@ I enjoy **learning new technologies and solving challenging problems**.
 ## ⚡️ My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavpatil2316&show_icons=true&count_private=true&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavpatil2316&show_icons=true&count_private=true&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact" alt="GitHub Stats" width="35%" />
     <img src="https://streak-stats.demolab.com/?user=pranavpatil2316&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatil2316&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatil2316&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%" />
 </p>
 
 ---
