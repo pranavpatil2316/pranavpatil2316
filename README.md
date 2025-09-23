@@ -6,9 +6,15 @@ I enjoy **learning new technologies and solving challenging problems**.
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpatil2316&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavpatil2316&show_icons=true&count_private=true&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatil2316&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="32%" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=pranavpatil2316&theme=tokyonight&hide_border=true)
+</p>
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavpatil2316&show_icons=true&count_private=true&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="60%" />
+</p>
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatil2316&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 <p align="center" style="margin-top: 20px;">
