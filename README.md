@@ -11,10 +11,6 @@ I enjoy **learning new technologies and solving challenging problems**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatil2316&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="32%" />
 </p>
 
-<p align="center" style="margin-top: 10px;">
-  ![Visitor Count](https://profile-counter.glitch.me/pranavpatil2316/count.svg)
-</p>
-
 <p align="center" style="margin-top: 20px;">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,java,arduino,react,mysql" alt="Tech Radar" width="70%" />
 </p>
