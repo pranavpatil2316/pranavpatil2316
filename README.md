@@ -41,6 +41,7 @@ I enjoy **learning new technologies and solving challenging problems**.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavpatil2316&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavpatil2316" alt="GitHub Trophies"/>
 </p>
+
 
