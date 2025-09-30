@@ -37,3 +37,10 @@ I enjoy **learning new technologies and solving challenging problems**.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavpatil2316&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
